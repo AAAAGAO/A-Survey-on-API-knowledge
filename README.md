@@ -23,8 +23,9 @@ The establishment of this repository is aimed at collecting and categorizing rel
     - [Searching crowd knowledge to recommend solutions for API usage tasks](https://onlinelibrary.wiley.com/doi/epdf/10.1002/smr.1800)
     - [Prompt enhance API recommendation: visualize the user’s real intention behind this query](https://link.springer.com/content/pdf/10.1007/s10515-024-00425-0.pdf)
     - [Automatic recognizing relevant fragments of APIs using API references](https://link.springer.com/content/pdf/10.1007/s10515-023-00401-0.pdf)
+    - [DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model](https://arxiv.org/pdf/2404.01342)
    
-  - **API Misuse Detection**
+  - **API security**
     - [APICAD: Augmenting API misuse detection through specifications from code and documents](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10172771)
     - [APP-miner: Detecting API misuses via automatically mining API path patterns](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10646759)
     - [ARBITRAR: User-guided API misuse detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9519443)
@@ -38,6 +39,14 @@ The establishment of this repository is aimed at collecting and categorizing rel
     - [Demystifying and Detecting Misuses of Deep Learning APIs](https://dlnext.acm.org/doi/pdf/10.1145/3597503.3639177)
     - [From Misuse to Mastery: Enhancing Code Generation with Knowledge-Driven AI Chaining](https://arxiv.org/pdf/2309.15606)
     - [Evaluating automatic program repair capabilities to repair API misuses](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9381596)
+    - [Detecting API post-handling bugs using code and description in patches](https://www.usenix.org/system/files/usenixsecurity23-lin.pdf)
+    - [API2Vec++: Boosting API sequence representation for malware detection and classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10586831)
+    - [Attention-based API locating for malware techniques](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309174)
+    - [Blindspots in python and java APIs result in vulnerable code](https://dl.acm.org/doi/pdf/10.1145/3571850)
+    - [CruParamer: Learning on parameter-augmented API sequences for malware detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9715123)
+    - [Designing robust API monitoring solutions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9645216)
+    - [Slowing down the aging of learning-based malware detectors with API knowledge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9693181)
+    
 
   - **API Knowledge Graph**
     - [Generating concept based API element comparison using a knowledge graph](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9286015)
@@ -112,7 +121,6 @@ The establishment of this repository is aimed at collecting and categorizing rel
     - [Distilled GPT for source code summarization](https://arxiv.org/pdf/2308.14731)
     - [Mapping APIs in Dynamic-typed Programs by Leveraging Transfer Learning](https://dl.acm.org/doi/pdf/10.1145/3641848)
     - [FQN Inference in Partial Code by Prompt-tuned Language Model of Code](https://dl.acm.org/doi/pdf/10.1145/3617174)
-    - [Detecting API post-handling bugs using code and description in patches](https://www.usenix.org/system/files/usenixsecurity23-lin.pdf)
     - [Bridge and Hint: Extending Pre-trained Language Models for Long-Range Code](https://arxiv.org/pdf/2405.11233)
     - [Programming Assistant for Exception Handling with CodeBERT](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10548665)
     - [Domain adaptive code completion via language models and decoupled domain databases](https://arxiv.org/pdf/2308.09313)
@@ -120,7 +128,6 @@ The establishment of this repository is aimed at collecting and categorizing rel
     - [Software entity recognition with noise-robust learning](https://arxiv.org/pdf/2308.10564)
     - [Characterizing Python Library Migrations](https://arxiv.org/pdf/2207.01124)
     - [On the effectiveness of pretrained models for api learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9796202)
-    - [DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model](https://arxiv.org/pdf/2404.01342)
     - [Aspect-based api review classification: How far can pre-trained transformer model go?](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9825884)
     - [DiffCoder: Enhancing Large Language Model on API Invocation via Analogical Code Exercises](https://dl.acm.org/doi/pdf/10.1145/3643745)
     - [Deep api learning revisited](https://arxiv.org/pdf/2205.01254)
@@ -128,20 +135,15 @@ The establishment of this repository is aimed at collecting and categorizing rel
     - [Advanced white-box heuristics for search-based fuzzing of REST APIs](https://dl.acm.org/doi/pdf/10.1145/3652157)
     - [An empirical study on API usages](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8186224)
     - [Answering uncertain, under-specified API queries assisted by knowledge-aware human-AI dialogue](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10374028)
-    - [API2Vec++: Boosting API sequence representation for malware detection and classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10586831)
-    - [Attention-based API locating for malware techniques](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309174)
     - [Automatic summarization of API reviews](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8115629)
-    - [Blindspots in python and java APIs result in vulnerable code](https://dl.acm.org/doi/pdf/10.1145/3571850)
     - [CAREER: Context-aware API recognition with data augmentation for API knowledge extraction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10556495)
     - [Continual learning from a stream of APIs](https://arxiv.org/pdf/2309.00023)
-    - [CruParamer: Learning on parameter-augmented API sequences for malware detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9715123)
-    - [Designing robust API monitoring solutions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9645216)
     - [Easy-to-deploy API extraction by multi-level feature embedding and transfer learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8865646)
     - [Learning to extract API mentions from informal natural language discussions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7816484)
     - [Mining likely analogical APIs across third-party libraries via large-scale unsupervised API semantics embedding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8630054)
     - [Programming bots by synthesizing natural language expressions into API invocations](https://arxiv.org/pdf/1711.05410)
     - [Retrieving API knowledge from tutorials and stack overflow based on natural language queries](https://dl.acm.org/doi/pdf/10.1145/3565799)
-    - [Slowing down the aging of learning-based malware detectors with API knowledge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9693181)
+    
     
 
 
